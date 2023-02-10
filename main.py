@@ -31,6 +31,3 @@ while bf_num!=0:
 print("Deciaml Number is ",bf_sum)
 sumall = b_sum + oct_sum + bf_sum
 print("Final answer is ", sumall)
-
-decimal_num = int(sumall, 2)
-print(decimal_num)
